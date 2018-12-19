@@ -6,7 +6,7 @@ Each Folder is Having Name "Euler and a number",number denotes question number o
 eg euler-3 denotes solution of  3rd question in  Project Euler
 
 
-*******************************************************************************************************************************************
+******************************************************************************************************************************************
 
 
 These Solutions may not be optimised,as some of them take upto a minute to return answer
